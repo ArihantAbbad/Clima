@@ -2,4 +2,4 @@
 A Weather App
 
 
-Note : In services folder under networking.dart add your own API key as constant.
+Note : In networking.dart under services folder add your own API key as constant.
